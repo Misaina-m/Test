@@ -1,0 +1,5 @@
+{
+  "name": "Registre Nominal Intelligent",
+  "description": "Une application moderne pour enregistrer des utilisateurs avec génération de profil assistée par IA Gemini.",
+  "requestFramePermissions": []
+}
